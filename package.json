@@ -1,19 +1,20 @@
 {
-  "name": "Temi Michael Express",
-  "author": "Temi Michael",
+  "name": "expressjs-temi-michael",
   "version": "1.0.0",
-  "description": "A brief description of your project",
-
-  "license": "MIT",
-  "dependencies": {
-    "express": "^4.14.0"
-  },
+  "description": "Working with Express.Js and Node.Js",
   "main": "server.js",
   "scripts": {
+    "test": "node server.js",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Temi-Michael/freecodecamp"
-}
+    "url": "git+https://github.com/Temi-Michael/freecodecamp.git"
+  },
+  "author": "Temi Michael",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Temi-Michael/freecodecamp/issues"
+  },
+  "homepage": "https://github.com/Temi-Michael/freecodecamp#readme"
 }
