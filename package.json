@@ -1,5 +1,5 @@
 {
-  "name": "Temi Michael Express.Js",
+  "author": "Temi Michael",
   "dependencies": {
     "express": "^4.14.0"
   },
