@@ -2,6 +2,11 @@
   "name": "expressjs-temi-michael",
   "version": "1.0.0",
   "description": "Working with Express.Js and Node.Js",
+  "keywords": [
+    "freecodecamp",
+    "express",
+    "node"
+  ],
   "main": "server.js",
   "scripts": {
     "test": "node server.js",
@@ -16,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Temi-Michael/freecodecamp/issues"
   },
-  "homepage": "https://github.com/Temi-Michael/freecodecamp#readme"
+  "homepage": "https://github.com/Temi-Michael/freecodecamp#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
